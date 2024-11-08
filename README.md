@@ -6,7 +6,6 @@ This project focuses on building a Customer Data Management System that efficien
 - [Project Overview](#project-overview)
 - [Key Components](#key-components)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Future Enhancements](#future-enhancements)
